@@ -37,3 +37,10 @@ Fluxo do n8n que responde a perguntas sobre super-heróis e consulta uma API ext
 ## Versionamento
 - Exporte sempre que alterar o fluxo e faça commit do `.json`.
 - (Opcional) Automatize com `n8n export:workflow --backup` para versionar múltiplos fluxos.
+
+  https://github.com/FilippeHarnack/<img width="1242" height="531" alt="Image" src="https://github.com/user-attachments/assets/35dd3067-dd50-41bf-826b-4e94652d9dfa" />
+<img width="502" height="168" alt="Image" src="https://github.com/user-attachments/assets/73e91876-d8b8-4f71-9505-27a107b4e0f8" />
+<img width="502" height="434" alt="Image" src="https://github.com/user-attachments/assets/3b6c4d93-603a-44c7-9ddf-c9f28f4a010d" />
+
+
+<
